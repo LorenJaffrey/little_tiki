@@ -1,0 +1,13 @@
+{
+  "name": "little_tiki",
+  "version": "1.0.0",
+  "description": "Little Tiki Bot for Slack",
+  "main": "app.js",
+  "author": "LorenJaffrey",
+  "dependencies" : {
+    "express": "^4.x.x",
+    "body-parser": "^1.x.x"
+  },
+  "repository": "",
+  "license": "ISC" 
+}
